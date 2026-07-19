@@ -1,0 +1,6 @@
+{
+  "name": "Evereden",
+  "description": "High-fidelity, interactive storefront clone of Evereden skincare featuring premium baby, kids, teens, and mom skincare products, bundle building, and shopping cart.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
